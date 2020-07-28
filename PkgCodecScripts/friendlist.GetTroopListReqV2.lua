@@ -81,6 +81,8 @@ function UnPackPkg(rawData, User)
         jceOutStream:JceReadInt(33)
         jceOutStream:JceReadInt(34)
         jceOutStream:JceReadInt(35)
+        jceOutStream:JceReadInt(36)
+        jceOutStream:JceReadInt(37)
         jceOutStream:Skip(1)
 
         info = {
