@@ -273,7 +273,5 @@ end
  - **BeegoLog [https://github.com/beego](https://github.com/beego)**
  - **AdminLTE [AdminLTE](https://github.com/ColorlibHQ/AdminLTE)**
  
- ### 机器人测试交流裙
- - ![](https://camo.githubusercontent.com/77638ebe9b1c621da9395afc5af7bcb454459d3f/68747470733a2f2f6674702e626d702e6f76682f696d67732f323032302f30342f393233623939383431336136643334342e6a7067)
  
  - [Telegarm IOTBOT交流群组](https://t.me/IOTQQ)
